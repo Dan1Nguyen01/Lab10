@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Education (){
     return(
-        <main className="border mt-3">
+        <main className="border mt-3 p-3">
             <h3>Education</h3>
             <div className="edu-div">
                 <h4>Information Technology/ SAIT 2021-2023</h4>

@@ -3,7 +3,7 @@ import React from "react";
 export default function TechSum(){
     
     return(   
-    <main className="border mt-3">
+    <main className="border mt-3 p-3">
         <h3>Technology Summary</h3>
         <div>
             <h4>Full Stack Developer</h4>

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function WorkExperience () {
 return (
-    <main className="border mt-3">
+    <main className="border mt-3 p-3">
         
         <h3>Work Experience</h3>
         <div className="work-form">
